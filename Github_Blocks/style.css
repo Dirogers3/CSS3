@@ -21,7 +21,8 @@ h1 {
 
 #row1 {
     background-color: pink;
-    margin: 7px;
+    margin-top: 7px;
+    margin-bottom: 7px;
     display: flex;
     justify-content: center;
     align-items: center;
